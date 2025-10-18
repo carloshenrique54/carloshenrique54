@@ -10,12 +10,6 @@
 
 ---
 
-## 🐍 Snake de Contribuições
-
-![Snake animation](https://github.com/carloshenrique54/carloshenrique54/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💻 Tecnologias que utilizo
 
 <div style="display: flex; gap: 10px;">
