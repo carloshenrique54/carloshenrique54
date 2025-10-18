@@ -2,9 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Gera todo dia à meia-noite
-  workflow_dispatch:      # Permite rodar manualmente
-  push:                   # Também roda ao fazer commit no main
+    - cron: "0 0 * * *"  
+  workflow_dispatch:     
+  push:                  
     branches:
       - main
 
