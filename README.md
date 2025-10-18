@@ -12,7 +12,7 @@
 
 ## 🐍 Snake de Contribuições
 
-![Snake animation](https://github.com/carloshenrique54/carloshenrique54/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carloshenrique54/snake/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
