@@ -2,14 +2,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloshenrique54&show_icons=true&theme=tokyonight&hide_title=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenrique54&layout=compact&theme=tokyonight)
-
----
-
 ## 💻 Tecnologias que utilizo
 
 <div style="display: flex; gap: 10px;">
