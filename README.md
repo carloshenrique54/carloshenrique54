@@ -40,7 +40,7 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/carlos-henrique-57995533a/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-henrique-57995533a/) 
 - 📧 **carlossantos.gp54@email.com**
 
 ---
