@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Carlos
+# Carlos Henrique
 
 ---
 
-## 💻 Tecnologias que utilizo
+## Tecnologias utilizadas
 
 <div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🎓 Estudante técnico em Desenvolvimento de Sistemas  
 - 💡 Interesse em **back-end**, **IA** e **projetos web completos**  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧩 Projetos em destaque
+## Projetos em destaque
 
 - 🌐 **Sites e aplicações web** desenvolvidos durante o curso  
 - 🧰 **Projetos de estudo em PHP, JavaScript e C++**  
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏷️ Badges
+## Badges
 
 ![Badge](https://img.shields.io/badge/Estudante%20T%C3%A9cnico-blue?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/Full%20Stack%20em%20Forma%C3%A7%C3%A3o-green?style=for-the-badge)
@@ -38,10 +38,10 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-henrique-57995533a/) 
-- 📧 **carlossantos.gp54@email.com**
+-  [LinkedIn](https://www.linkedin.com/in/carlos-henrique-57995533a/) 
+-  **carlossantos.gp54@email.com**
 
 ---
 
