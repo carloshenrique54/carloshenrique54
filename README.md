@@ -8,6 +8,19 @@
 
 ---
 
+## ✦ Badges
+
+<div align="center">
+
+![Badge](https://img.shields.io/badge/Estudante%20Técnico-blue?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Full%20Stack%20em%20Formação-green?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Sempre%20Aprendendo-orange?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Grand%20Prix%20SENAI-★%203º%20Lugar%20Nacional-gold?style=for-the-badge)
+
+</div>
+
+---
+
 ## ◈ Sobre mim
 
 Estudante técnico em **Desenvolvimento de Sistemas** pelo **SENAI Taubaté**, com foco em construir soluções práticas e escaláveis para problemas reais.
@@ -77,20 +90,6 @@ O **Compass** foi projetado para otimizar a organização operacional de ambient
 
 <div align="center">
   <img src="https://github.com/carloshenrique54/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## ✦ Badges
-
-<div align="center">
-
-![Badge](https://img.shields.io/badge/Estudante%20Técnico-blue?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Full%20Stack%20em%20Formação-green?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Sempre%20Aprendendo-orange?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Código%20é%20Arte-purple?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Grand%20Prix%20SENAI-★%203º%20Lugar%20Nacional-gold?style=for-the-badge)
-
 </div>
 
 ---
