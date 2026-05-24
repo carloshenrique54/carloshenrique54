@@ -8,16 +8,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## ◈ Sobre mim
 
-🎓 Estudante técnico em **Desenvolvimento de Sistemas (SENAI Taubaté)**  
-💡 Foco em **back-end**, **inteligência artificial** e **aplicações web completas**  
-⚙️ Experiência com **HTML, CSS, JavaScript, PHP, Python, C++ e IoT**  
-🧠 Evoluindo constantemente e construindo soluções práticas para problemas reais  
+Estudante técnico em **Desenvolvimento de Sistemas** pelo **SENAI Taubaté**, com foco em construir soluções práticas e escaláveis para problemas reais.
+
+- `▸` Especialização em **back-end**, **inteligência artificial** e **aplicações web completas**
+- `▸` Experiência com **HTML, CSS, JavaScript, PHP, Python, C++** e **IoT**
+- `▸` Em constante evolução — sempre buscando novas tecnologias e desafios
+- `★` **3º Lugar Nacional** no Grand Prix SENAI 2026
 
 ---
 
-## 🧠 Tecnologias
+## ⚙ Stack de Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,react,vite" />
@@ -25,46 +27,43 @@
 
 ---
 
-## 🛰️ Projeto em Destaque
+## ✦ Projeto em Destaque — Compass Logistics Dashboard
 
-# 🧭 Compass Logistics Dashboard
+> Sistema de gestão logística portuária desenvolvido durante o **Grand Prix SENAI 2026**, em resposta ao desafio proposto pela **Vale**.
 
-Sistema de gestão logística portuária desenvolvido durante o **Grand Prix SENAI 2026** para o desafio proposto pela **Vale**.
+O **Compass** foi projetado para otimizar a organização operacional de ambientes portuários, integrando múltiplos módulos em uma única plataforma:
 
-O Compass foi criado para auxiliar na organização operacional de ambientes portuários, oferecendo:
+| ◆ Módulo | › Descrição |
+|----------|-------------|
+| `[ Frota & Operadores ]` | Gerenciamento de veículos e equipes |
+| `[ Roteamento ]` | Cálculo automático de rotas otimizadas |
+| `[ Estoque ]` | Controle e rastreamento de cargas |
+| `[ Monitoramento ]` | Gestão de pontos interditados em tempo real |
+| `[ Dashboard ]` | Visão operacional centralizada |
+| `[ Mapa Logístico ]` | Visualização geoespacial das operações |
+| `[ Relatórios ]` | Geração de relatórios operacionais |
 
-- 🚛 Gerenciamento de veículos e operadores
-- 🗺️ Cálculo automático de rotas
-- 📦 Controle de estoque
-- 🚧 Monitoramento de pontos interditados
-- 📊 Dashboard operacional
-- 📍 Visualização logística em mapa
-- 📑 Relatórios operacionais
+**Stack →** `React` `JavaScript` `Vite` `Leaflet` `CSS`
 
-### 🔗 Links do Projeto
+<div align="center">
 
-- 💻 Repositório:  
-https://github.com/carloshenrique54/Compass
+[![Repositório](https://img.shields.io/badge/GitHub-Repositório-6a0dad?style=for-the-badge&logo=github)](https://github.com/carloshenrique54/Compass)
+[![Deploy](https://img.shields.io/badge/Vercel-Deploy%20ao%20Vivo-c77dff?style=for-the-badge&logo=vercel)](https://compass-three-alpha.vercel.app/)
 
-- 🌐 Deploy:  
-https://compass-three-alpha.vercel.app/
-
-### ⚙️ Tecnologias Utilizadas
-
-`React` `JavaScript` `Vite` `Leaflet` `CSS`
+</div>
 
 ---
 
-## 📂 Projetos
+## ◆ Áreas de Atuação
 
-- 🌐 Desenvolvimento de sites e aplicações web
-- ⚙️ Projetos de automação e integração de sistemas
-- 🧪 Experimentos com PHP, JavaScript, Python e C++
-- 🎮 Criação de jogos e sistemas
+- `›` **Web Development** — Sites, landing pages e aplicações web completas
+- `›` **Automação & Integração** — Scripts e sistemas de integração entre plataformas
+- `›` **Experimentação** — Projetos com PHP, Python, JavaScript e C++
+- `›` **Games & Sistemas** — Criação de jogos e sistemas interativos
 
 ---
 
-## 📊 GitHub Analytics
+## ▸ GitHub Analytics
 
 <div align="center">
 
@@ -74,7 +73,7 @@ https://compass-three-alpha.vercel.app/
 
 ---
 
-## 🐍 Contribuições
+## ◉ Histórico de Contribuições
 
 <div align="center">
   <img src="https://github.com/carloshenrique54/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
@@ -82,22 +81,29 @@ https://compass-three-alpha.vercel.app/
 
 ---
 
-## 🏆 Badges
+## ✦ Badges
 
-![Badge](https://img.shields.io/badge/Estudante%20T%C3%A9cnico-blue?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Full%20Stack%20em%20Forma%C3%A7%C3%A3o-green?style=for-the-badge)
+<div align="center">
+
+![Badge](https://img.shields.io/badge/Estudante%20Técnico-blue?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Full%20Stack%20em%20Formação-green?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/Sempre%20Aprendendo-orange?style=for-the-badge)
-![Badge](https://img.shields.io/badge/C%C3%B3digo%20%C3%A9%20Arte-purple?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Grand%20Prix%20SENAI-🥉%203º%20Lugar%20Nacional-gold?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Código%20é%20Arte-purple?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Grand%20Prix%20SENAI-★%203º%20Lugar%20Nacional-gold?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📫 Contato
+## → Contato
 
-- 💼 LinkedIn:  
-https://www.linkedin.com/in/carlos-henrique-57995533a/
+<div align="center">
 
-- 📧 Email:  
-carlossantos.gp54@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-57995533a/)
+[![Email](https://img.shields.io/badge/Email-carlossantos.gp54@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlossantos.gp54@email.com)
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,100:6a0dad&height=100&section=footer" />
 </div>
