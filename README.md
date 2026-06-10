@@ -99,7 +99,7 @@ O **Compass** foi projetado para otimizar a organização operacional de ambient
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-57995533a/)
-[![Email](https://img.shields.io/badge/Email-carlossantos.gp54@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlossantos.gp54@email.com)
+[![Email](https://img.shields.io/badge/Email-carlossantos.gp54@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlossantos.ch84@email.com)
 
 </div>
 
